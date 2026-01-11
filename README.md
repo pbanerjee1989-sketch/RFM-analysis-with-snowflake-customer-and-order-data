@@ -53,7 +53,7 @@ Sort the output in a logical way (e.g., highest value customers first).
   ```sql
   SELECT * FROM final;
 
-  ## Part 2. Segment Exploration
+## Part 2. Segment Exploration
 
 Based on the work you did for Part 1, now that you have built your customer segmentation, it’s time to use it to ask questions and extract some insights. In this part, you will practice analyzing your segmentation results with SQL.
 
